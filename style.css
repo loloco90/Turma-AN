@@ -4,9 +4,6 @@ body {
 
 }
 
-header {
-    justify-content: center;
-}
 
 section {
     background: rgb(79, 66, 54);
@@ -27,3 +24,7 @@ div {
 
 .chamada-texto {
     margin: 5%;
+
+header {
+    justify-content: center;
+}
