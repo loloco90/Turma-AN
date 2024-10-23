@@ -1,9 +1,11 @@
 body {
     color: white;
     background-color: rgba(0, 0, 0, 0.856);
-
 }
 
+header {
+    justify-content: center;
+}
 
 section {
     background: rgb(79, 66, 54);
@@ -24,9 +26,3 @@ div {
 
 .chamada-texto {
     margin: 5%;
-
-header {
-    
-    justify-content: center;
-    
-}
