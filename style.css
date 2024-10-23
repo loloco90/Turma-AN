@@ -4,6 +4,10 @@ body {
 
 }
 
+header {
+    justify-content: center;
+}
+
 section {
     background: rgb(79, 66, 54);
 
