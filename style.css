@@ -26,5 +26,6 @@ div {
     margin: 5%;
 
 header {
+    display: flex;
     justify-content: center;
 }
